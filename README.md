@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Lohith 👋
 
-<!--
-**Lohith-CSE-AIML/Lohith-CSE-AIML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE (AI & ML) Student
+💻 Aspiring Full Stack Developer
+🤖 Interested in AI, Machine Learning, and Web Development
+🌱 Currently Learning JavaScript, Node.js, and React
+🚀 Building Projects and Improving My Problem-Solving Skills
 
-Here are some ideas to get you started:
+## Connect With Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/thoti-lohith/)
+
+## Skills
+
+- HTML
+- CSS
+- JavaScript
+- Java
+- Python
+- Machine Learning
+
+## Current Goals
+
+- Master JavaScript
+- Learn React
+- Learn Node.js
+- Build Real-World Projects
+- Improve Git & GitHub Skills
+
+## GitHub Stats
+
+Coming Soon 🚀
